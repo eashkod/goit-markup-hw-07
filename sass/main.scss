@@ -1,9 +1,10 @@
-@import './utils/variables.scss';
+@import './utils/variables';
 
 @import './components/reset';
 @import './components/visually-hidden';
 @import './components/section';
 @import './components/container';
+@import './components/common';
 
 @import './components/btn';
 @import './components/logo';
