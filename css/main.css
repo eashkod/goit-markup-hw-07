@@ -74,6 +74,14 @@ body {
   letter-spacing: 0.03em;
 }
 
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
 .btn {
   font-family: inherit;
   text-align: center;
@@ -484,9 +492,12 @@ body {
   display: flex;
 }
 
+.footer__logo {
+  margin-right: 156px;
+}
+
 .contacts__address {
   font-style: normal;
-  margin-right: 70px;
 }
 
 .contacts__list {
@@ -522,6 +533,7 @@ body {
   text-transform: uppercase;
   align-items: center;
   color: #ffffff;
+  padding-top: 12px;
   margin-bottom: 20px;
 }
 
@@ -564,6 +576,7 @@ body {
   text-transform: uppercase;
   align-items: center;
   color: #ffffff;
+  padding-top: 12px;
   margin-bottom: 20px;
 }
 
